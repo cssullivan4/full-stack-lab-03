@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(64, 62, 37, 0.7);
+    font-family: Tahoma, 'serif';
+}
+
+h1 {
+    color: white;
+}
+/*.header1 {
+    color: white;
+}*/
+
+.friend {
+    background-color: #87c1ff;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+}
